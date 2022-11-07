@@ -1,2 +1,2 @@
-# DIO-GFT Quality Assurance Para Mulheres
-Desafio de Projeto sobre Git/GitHub
+# Desafio de Projeto sobre Git/GitHub
+DIO-GFT Quality Assurance Para Mulheres
